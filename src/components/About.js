@@ -1,7 +1,7 @@
 import AboutImg from '../assets/about.png'
 export default function About(){
     const config={
-        line1:'👋 Hi, I am Karthick, a motivated and enthusiastic MERN-Full Stack Developer with a strong passion for web development and continuous learning.',
+        line1:'👋 Hi, I am Karthick, Highly motivated and detail-oriented Quality Control Engineer with 4+ years of experience in implementing quality systems, process improvement, and team leadership in mechanical engineering environments. Recently transitioned MERN-Full Stack Developer with a strong passion for web development and continuous learning.',
         line2:'I recently completed my training in MERN stack development, focusing on technologies like MongoDB, Express.js, React.js, and Node.js. I am proficient in HTML, CSS, and JavaScript for frontend development, and I have hands-on experience with React.js. On the backend, I work with Node.js, Express.js, Python, and SQL databases.',
         line3:'I enjoy building responsive and user-friendly web applications and I am always eager to take on new challenges, collaborate with teams, and grow as a developer.',
         line4:' I am looking forward to starting my professional journey in the tech industry and contributing to real-world projects.'

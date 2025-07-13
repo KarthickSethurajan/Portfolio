@@ -7,11 +7,11 @@ export default function Projects(){
       {
         image:IplImg,
         description:'This IPL Analysis Dashboard built with React.js and it provides an in-depth view of team performances, player statistics, and season-wise trends. It is designed for cricket analysts, sports enthusiasts, and decision-makers to explore match outcomes, batting and bowling insights, and venue-wise winnings.',
-        link:'https://iplboarddetails.ccbp.tech/',
+        link:'https://iplmatchdetails.ccbp.tech/',
       },
       {
         image:JobbyImg,
-        description:'Jobby App is a job search web application developed using React.js. The primary purpose of this app is to help users easily search and explore job listings based on their interests, skills, or location. It serves as a platform where users can view detailed job information such as company name, job title, type of employment, location, and job description.',
+        description:'Jobby App is a job search web application developed using React.js. The primary purpose of this app is to help users easily search and explore job listings based on skills. It serves as a platform where users can view detailed job information such as company name, job title, type of employment, location, and job description.',
         link:'https://techItjobs.ccbp.tech',
       },
       {
