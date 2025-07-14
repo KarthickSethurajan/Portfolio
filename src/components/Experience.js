@@ -6,6 +6,7 @@ export default function Experience(){
          <div className="space-y-6">
          <div className="bg-primary p-5 rounded-xl shadow-lg">
           <h3 className="text-xl md:text-2xl font-semibold">Quality Control Junior Engineer</h3>
+          <h3 className="text-lg md:text-xl leading-relaxed mt-2 font-bold">Renault Nissan Automotive Private Limited, Oragadam, Chennai</h3>
           <p className="text-lg md:text-xl leading-relaxed mt-2 font-bold">July 2020 – July 2023</p>
            <p className="text-lg md:text-xl leading-relaxed mt-2">➢ Implementing quality systems / procedures in the organization to reduce rejections. Responsible for
             producing 95 % first time O.K vehicles to satisfy external as well as internal customers.</p>
@@ -15,6 +16,7 @@ export default function Experience(){
         </div>
         <div className="bg-primary p-5 rounded-xl shadow-lg">
           <h3 className="text-xl md:text-2xl font-semibold">Quality Control Engineer </h3>
+          <h3 className="text-lg md:text-xl leading-relaxed mt-2 font-bold">Dinex Emiision Solution India Private Limited, Mahindracity, Chennai</h3>
           <p className="text-lg md:text-xl leading-relaxed mt-2 font-bold">Aug 2023 - Dec 2024</p>
            <p className="text-lg md:text-xl leading-relaxed mt-2">➢ Conducting daily morning meeting with subordinates to discuss about the customer complaints/concerns and internal quality issuses to increase the product and process knowledge and to create awareness.</p>
            <p className="text-lg md:text-xl leading-relaxed mt-2">➢Applied 8D Methodology for structured problem-solving and utilized 5W2H for comprehensive analysis and problem definition.</p>
